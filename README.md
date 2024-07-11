@@ -2,4 +2,4 @@
 
 ## Heat Equation 
 The Heat Equation is a partial differential equation given by 
-$u_t = -ku_xx$
+$u_t = -ku_{xx}$
