@@ -2,4 +2,4 @@
 
 ## Heat Equation 
 
-$/x$
+$x$
